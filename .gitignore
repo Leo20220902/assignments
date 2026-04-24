@@ -1,0 +1,7 @@
+# macOS 系统文件
+.DS_Store
+._*
+__MACOSX/
+
+# Jupyter Notebook 临时文件
+.ipynb_checkpoints/
